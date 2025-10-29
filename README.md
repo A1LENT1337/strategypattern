@@ -1,0 +1,2 @@
+# strategypattern
+Assignment 6
